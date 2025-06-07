@@ -13,7 +13,7 @@ A responsive and easy-to-use currency converter built using **HTML**, **CSS**, a
 - JavaScript for conversion logic and API integration (optional)
 
 ## How to Use
-1. Open `index.html` in a modern web browser.
+1. Open `web_2.html` in a modern web browser.
 2. Select the source and target currencies.
 3. Enter the amount to convert.
 4. View the converted amount instantly.
